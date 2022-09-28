@@ -115,13 +115,13 @@
   }
 }
 
-@media (prefers-color-scheme: dark) {
+@media (prefers-color-scheme: light) {
   .card,
   .footer {
-    border-color: #222;
+    border-color: #FFFFFF;
   }
   .code {
-    background: #111;
+    background: #FFFFFF;
   }
   .logo img {
     filter: invert(1);
